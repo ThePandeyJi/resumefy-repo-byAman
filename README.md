@@ -64,7 +64,4 @@ Mobile Phone Responsiveness
 ![Screenshot 2025-04-21 154557](https://github.com/user-attachments/assets/26193e37-8210-4345-9ed7-d6a1f2eb0e8c)
 
 
-![image](https://github.com/user-attachments/assets/a6405f8a-bb61-4f94-90b4-94b6f7160e06)
-![image](https://github.com/user-attachments/assets/d59ab566-07dc-48cd-8cdb-ba7a473586ce)
-
  
