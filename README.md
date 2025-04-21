@@ -26,34 +26,43 @@ This repository contains several frontend improvements and bug fixes aimed at en
 Navbar Changes
 
    
-![image](https://github.com/user-attachments/assets/4af6f0b6-d163-4b66-951d-b8315b07c42f)
+![Screenshot 2025-04-21 153852](https://github.com/user-attachments/assets/cd917ffc-b49c-4872-885b-170cca003077)
+
 
 
 About Section Merging
 
 
-![image](https://github.com/user-attachments/assets/32ac8d3a-8160-4f37-bc82-2e6b65e77343)
+![Screenshot 2025-04-21 153928](https://github.com/user-attachments/assets/521c4dfb-e2b8-4548-b563-bf34baf2eaee)
 
 
 Login Alignment
 
 
-![image](https://github.com/user-attachments/assets/e84e6a84-6a7b-4b74-9397-7d9f6b0488d8)
+![Screenshot 2025-04-21 153944](https://github.com/user-attachments/assets/375b9586-3055-4290-902a-c463c8d13fe8)
 
 
 SignUp Redirection and Alignment
 
 
-![image](https://github.com/user-attachments/assets/03136de6-94dc-4522-bfff-0ccd600a4fe9)
+![Screenshot 2025-04-21 154004](https://github.com/user-attachments/assets/af386631-82cd-4b54-850f-b97a3c40eeef)
 
 
 Mobile Phone Responsiveness
 
 
-![image](https://github.com/user-attachments/assets/a65b698a-3fb2-4a99-ae6e-20d48bc57f93)
+![Screenshot 2025-04-21 154044](https://github.com/user-attachments/assets/6fd32a5f-c0f5-46b0-ae9f-8a09d5cf9204)
+
 
 
 ## Files in which changes are made
+
+
+![Screenshot 2025-04-21 154354](https://github.com/user-attachments/assets/a51f78f0-1280-415c-b631-2bd56b9d0c9f)
+
+
+![Screenshot 2025-04-21 154557](https://github.com/user-attachments/assets/26193e37-8210-4345-9ed7-d6a1f2eb0e8c)
+
 
 ![image](https://github.com/user-attachments/assets/a6405f8a-bb61-4f94-90b4-94b6f7160e06)
 ![image](https://github.com/user-attachments/assets/d59ab566-07dc-48cd-8cdb-ba7a473586ce)
